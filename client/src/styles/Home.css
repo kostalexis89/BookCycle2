@@ -102,7 +102,7 @@
 .btna{
   text-transform: uppercase;
   text-decoration: none;
-  padding: 1.5vw 3vw;
+  padding: 15px 40px;
   display: inline-block;
   border-radius: 100px;
   transition: all .2s;
