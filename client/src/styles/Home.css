@@ -29,9 +29,9 @@
 
 .heading-primary-main {
   display: block;
-  font-size: 60px;
+  font-size: 8vw;
   font-weight: 400;
-  letter-spacing: 35px;
+  letter-spacing: 3.7vw;
   animation-name: moveInLeft;
   animation-duration: 2s;
   animation-timing-function: ease-in;
@@ -39,9 +39,9 @@
 
 .heading-primary-sub {
   display: block;
-  font-size: 20px;
+  font-size: 3vw;
   font-weight: 700;
-  letter-spacing: 17.4px;
+  letter-spacing: 1.7vw;
   animation-name: moveInRight;
   animation-duration: 2s;
   animation-timing-function: ease-in;
@@ -102,7 +102,7 @@
 .btna{
   text-transform: uppercase;
   text-decoration: none;
-  padding: 15px 40px;
+  padding: 1.5vw 3vw;
   display: inline-block;
   border-radius: 100px;
   transition: all .2s;
